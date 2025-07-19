@@ -13,25 +13,25 @@ I am a DevOps Enthusiast with hands-on experience in <b>CI/CD pipelines, Docker,
 
 ###
 
-<h3 align="left">🧑‍💻 About Me</h3>
+<h3 align="left">🔰 About Me</h3>
 
-<ul>
-  <li>💻 Currently transitioning from Embedded Systems to DevOps Engineering</li>
-  <li>🎯 Focused on automating infrastructure, pipelines, and deployments</li>
-  <li>🌐 Strong believer in continuous learning and practical implementation</li>
+<ul type="none">
+  <li>🔅 Currently transitioning from Embedded Systems to DevOps Engineering</li>
+  <li>🔅 Focused on automating infrastructure, pipelines, and deployments</li>
+  <li>🔅 Strong believer in continuous learning and practical implementation</li>
 </ul>
 
 ###
 
-<h3>📚 Learning & Focus Areas</h3>
+<h3>🔰 Learning & Focus Areas</h3>
 
-<ul>
-  <li>⚙️ CI/CD Pipeline Automation (GitLab CI/CD, GitHub Actions, Jenkins)</li>
-  <li>🐳 Containerization with Docker & Kubernetes (K3s, Minikube)</li>
-  <li>☁️ Cloud Platforms (AWS, GCP basics)</li>
-  <li>🔧 Infrastructure as Code (Terraform, Ansible)</li>
-  <li>📈 Monitoring and Observability (Prometheus, Grafana)</li>
-  <li>🔗 Bridging Embedded Systems and Cloud DevOps solutions</li>
+<ul type="none">
+  <li>🔹 CI/CD Pipeline Automation (GitLab CI/CD, GitHub Actions, Jenkins)</li>
+  <li>🔹 Containerization with Docker & Kubernetes (K3s, Minikube)</li>
+  <li>🔹 Cloud Platforms (AWS, GCP basics)</li>
+  <li>🔹 Infrastructure as Code (Terraform, Ansible)</li>
+  <li>🔹 Monitoring and Observability (Prometheus, Grafana)</li>
+  <li>🔹 Bridging Embedded Systems and Cloud DevOps solutions</li>
 </ul>
 
 ###
@@ -68,7 +68,7 @@ I am a DevOps Enthusiast with hands-on experience in <b>CI/CD pipelines, Docker,
 
 <h3>💡 Highlight Projects</h3>
 
-<ul>
+<ul type="none">
   <li>🔗 <b>Set Up a Home-Lab: Upgrade Your Old Laptop to a Cloud Server</b> | 
   <a href="https://github.com/sachindumalshan/home-lab-server.git">View Repository</a></li>
 
