@@ -72,7 +72,7 @@ I am a DevOps Enthusiast with hands-on experience in <b>CI/CD pipelines, Docker,
   <li>🔗 <b>Set Up a Home-Lab: Upgrade Your Old Laptop to a Cloud Server</b> | 
   <a href="https://github.com/sachindumalshan/home-lab-server.git">View Repository</a></li>
 
-  <li>🔗 <b>SEO Content Optimizer Tool</b> | 
+  <li>🔗 <b>SEO Content Optimizer Tool Using Jenkins, Docker, and GitHub</b> | 
   <a href="https://github.com/sachindumalshan/seo-content-optimizer-tool.git">View Repository</a></li>
 
   <li>🔗 <b>Email Subject Generator - Multi-Tier Application Deployment</b> | 
