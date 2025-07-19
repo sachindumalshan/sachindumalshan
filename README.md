@@ -39,32 +39,47 @@ I am a DevOps Enthusiast with hands-on experience in <b>CI/CD pipelines, Docker,
 <h3>🔰 Tech Stacks & Tools</h3>
 
 <p align="left">
+  <!-- DevOps & Cloud -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original-wordmark.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original-wordmark.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original-wordmark.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50"/>
+
+  <!-- Monitoring & Visualization -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" width="50" height="50"/>
+
+  <!-- Programming & OS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original-wordmark.svg" width="50" height="50"/>
+
+  <!-- Database -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/>
 </p>
+
 
 ###
 
 <h3>💡 Highlight Projects</h3>
 
 <ul>
-  <li>🔗 <b>CI/CD Pipeline for Node.js Microservices on K3s</b> | 
-  <a href="https://github.com/yourusername/project1">View Repository</a></li>
+  <li>🔗 <b>Set Up a Home-Lab: Upgrade Your Old Laptop to a Cloud Server</b> | 
+  <a href="https://github.com/sachindumalshan/home-lab-server.git">View Repository</a></li>
 
-  <li>🔗 <b>Dockerized Plant Leaf Disease Detection App</b> | 
-  <a href="https://github.com/yourusername/project2">View Repository</a></li>
+  <li>🔗 <b>SEO Content Optimizer Tool</b> | 
+  <a href="https://github.com/sachindumalshan/seo-content-optimizer-tool.git">View Repository</a></li>
 
-  <li>🔗 <b>Terraform Infrastructure Setup for Dev and Prod Environments</b> | 
-  <a href="https://github.com/yourusername/project3">View Repository</a></li>
+  <li>🔗 <b>Email Subject Generator - Multi-Tier Application Deployment</b> | 
+  <a href="https://sachindumalshan@bitbucket.org/sachindu-work-space/email-subject-generator.git">View Repository</a></li>
 
-  <li>🔗 <b>LoRa-based Sensor Data Collection with Cloud Integration</b> | 
-  <a href="https://github.com/yourusername/project4">View Repository</a></li>
+  <li>🔗 <b>Deploy Simple Microservices App on K3s with GitLab CI/CD</b> | 
+  <a href="https://gitlab.com/sachindu_personal/KubeGreet.git">View Repository</a></li>
 </ul>
 
 > 📝 *More projects on the way as I dive deeper into cloud-native and DevOps practices.*
